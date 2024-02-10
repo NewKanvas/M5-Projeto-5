@@ -1,23 +1,21 @@
-<!---
 <h1 align="center">
- <img src="Doc/Images/banner.jpg" />
+ <img src="Doc/Images/banners/banner2.png" />
 </h1>
--->
 
-# Projeto 4 - Análise de Preços de Combustíveis
 # Projeto 5 - Criptomoedas
 
 ## Conteúdo do Projeto
 - [Contexto](#contexto)
 - [Estrutura do Projeto](#estrutura-do-projeto)
 - [Requisitos](#requisitos)
+- [Resultados das Análises](#resultados-das-análises)
 - [Download](#download)
 - [Integrantes](#integrantes)
 - [Status](#status)
 
 ## Contexto
 
-...
+Nesso projeto estamos analisando criptomoedas, para entender seus padrões de valorização, desvalorização e possíveis correlações entre elas. Trabalhamos com uma corretora financeira, utilizando dados históricos disponíveis no [Kaggle](https://www.kaggle.com/datasets/sudalairajkumar/cryptocurrencypricehistory), buscando insights sobre esses ativos digitais.
 
 ## Estrutura do Projeto
 
@@ -35,6 +33,10 @@
 - **NumPy:** Instale com `!pip install numpy`
 - **Matplotlib:** Instale com `!pip install matplotlib`
 
+## Resultados das Análises
+
+[...]
+
 ## Download
 
 [![Download ZIP](https://img.shields.io/badge/Download_-ZIP-green?style=for-the-badge&logo=github)](https://github.com/NewKanvas/Projeto-5/archive/main.zip)
@@ -44,15 +46,15 @@
 ## Integrantes
 [![Cássio Ramos](https://img.shields.io/badge/Cássio_Ramos-gray?style=for-the-badge&logo=github)](https://github.com/NewKanvas) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cassiosramos/)
 
-[![Alessandro Brito](https://img.shields.io/badge/Hudson_Cesar-red?style=for-the-badge&logo=github)](#) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](#)
+[![Alessandro Brito](https://img.shields.io/badge/Alessandro_Brito-red?style=for-the-badge&logo=github)](https://github.com/alsantosad) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alessandrobritoad/)
 
-[![Cesar](https://img.shields.io/badge/Arthur_Lorran-blue?style=for-the-badge&logo=github)](#) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](#)
+[![Cezar Henrique](https://img.shields.io/badge/Cezar_Henrique-blue?style=for-the-badge&logo=github)](#) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cezarh-gomes/)
 
-[![Felipe Damico](https://img.shields.io/badge/Xavier_Flor-green?style=for-the-badge&logo=github)](#) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](#)
+[![Felipe Damico](https://img.shields.io/badge/Felipe_Damico-green?style=for-the-badge&logo=github)](https://github.com/FelipeDamicoCapitao) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](#)
 
-[![Drielli Almeida](https://img.shields.io/badge/Drielli_Almeida-yellow?style=for-the-badge&logo=github)](#) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](#)
+[![Drielli Almeida](https://img.shields.io/badge/Drielli_Almeida-yellow?style=for-the-badge&logo=github)](https://github.com/dria99) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/drielli-ao/)
 
-[![Debora](https://img.shields.io/badge/Hernandi_Assis-orange?style=for-the-badge&logo=github)](#) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](#)
+[![Debora Jansen](https://img.shields.io/badge/Debora_Jansen-orange?style=for-the-badge&logo=github)](#) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/debora-jansen/)
 
 [![Trello](https://img.shields.io/badge/Trello-purple?style=for-the-badge&logo=trello&logoColor=white)](#)
 
