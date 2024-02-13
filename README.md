@@ -48,7 +48,7 @@ Nesso projeto estamos analisando criptomoedas, para entender seus padrões de va
 
 [![Alessandro Brito](https://img.shields.io/badge/Alessandro_Brito-red?style=for-the-badge&logo=github)](https://github.com/alsantosad) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alessandrobritoad/)
 
-[![Cezar Henrique](https://img.shields.io/badge/Cezar_Henrique-blue?style=for-the-badge&logo=github)](#) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cezarh-gomes/)
+[![Cezar Henrique](https://img.shields.io/badge/Cezar_Henrique-blue?style=for-the-badge&logo=github)](https://github.com/CezarHick) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cezarh-gomes/)
 
 [![Felipe Damico](https://img.shields.io/badge/Felipe_Damico-green?style=for-the-badge&logo=github)](https://github.com/FelipeDamicoCapitao) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](#)
 
