@@ -5,11 +5,11 @@ Projeto 5
 │   └── ...                # Outros arquivos CSV de moedas
 ├── Doc                    # Pasta contendo documentos relacionados ao projeto
 │   ├── Imagens            # Pasta contendo imagens
-│   │   ├── image1.png    
-│   │   ├── image2.png    
+│   │   ├── banner1.png    
+│   │   ├── banner2.png    
 │   │   └── ...            # Outras imagens
 │   └── Material           # Pasta contendo material do projeto
-│       └── project_pdf.pdf# PDF do projeto
+│       └── Projetoemgrupo.pdf# PDF do projeto
 │ 
 ├── .gitattributes         # Arquivo Git para especificar tratamento de arquivos binários
 ├── LICENSE                # Arquivo de licença do projeto
