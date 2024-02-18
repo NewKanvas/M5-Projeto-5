@@ -1,8 +1,12 @@
 Projeto 5
+├── Code                   # Pasta contendo seus scripts e códigos
+│   ├──crypto_anlys.ipynb
+│   └── query.sql          # Arquivo SQL
 ├── Data                   # Pasta contendo arquivos de dados necessários para análise
 │   ├── coin_Aave.csv     
 │   ├── coin_BinanceCoin.csv     
 │   └── ...                # Outros arquivos CSV de moedas
+│   └── criptomoedas.csv   # Nosso arquivo
 ├── Doc                    # Pasta contendo documentos relacionados ao projeto
 │   ├── Imagens            # Pasta contendo imagens
 │   │   ├── banner1.png    
