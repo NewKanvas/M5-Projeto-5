@@ -10,8 +10,8 @@
 - [Requisitos](#requisitos)
 - [Resultados das Análises](#resultados-das-análises)
 - [Download](#download)
-- [Integrantes](#integrantes)
-- [Status](#status)
+
+
 
 ## Contexto
 
@@ -39,10 +39,10 @@ Nesso projeto estamos analisando criptomoedas, para entender seus padrões de va
 
 ## Download
 
-[![Download ZIP](https://img.shields.io/badge/Download_-ZIP-green?style=for-the-badge&logo=github)](https://github.com/NewKanvas/Projeto-5/archive/main.zip)
+[Download dos arquivos ou da database](#)
 
 ---
-# 🤝 Colaboradores 🤝
+# 🤝 Colaboradores
 
 <table>
   <tr>
@@ -104,18 +104,5 @@ Nesso projeto estamos analisando criptomoedas, para entender seus padrões de va
 </table>
 
 
-[![Trello](https://img.shields.io/badge/Trello-purple?style=for-the-badge&logo=trello&logoColor=white)](#)
-
----
-
-## Status
-![GitHub Repo Size](https://img.shields.io/github/repo-size/NewKanvas/Projeto-5?style=for-the-badge&logo=github)
-![GitHub last commit](https://img.shields.io/github/last-commit/NewKanvas/Projeto-5?style=for-the-badge&logo=git)
-[![Licença](https://img.shields.io/github/license/NewKanvas/Projeto-5?style=for-the-badge)](./LICENSE)
-![Downloads](https://img.shields.io/github/downloads/NewKanvas/Projeto-5/total?style=for-the-badge)
-![Forks](https://img.shields.io/github/forks/NewKanvas/Projeto-5?style=for-the-badge)
-![Watchers](https://img.shields.io/github/watchers/NewKanvas/Projeto-5?style=for-the-badge)
-![Stars](https://img.shields.io/github/stars/NewKanvas/Projeto-5?style=for-the-badge)
-![Issues](https://img.shields.io/github/issues/NewKanvas/Projeto-5?style=for-the-badge)
 
 
