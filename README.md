@@ -54,7 +54,7 @@ Nesso projeto estamos analisando criptomoedas, para entender seus padrões de va
 
 [![Drielli Almeida](https://img.shields.io/badge/Drielli_Almeida-yellow?style=for-the-badge&logo=github)](https://github.com/dria99) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/drielli-ao/)
 
-[![Debora Jansen](https://img.shields.io/badge/Debora_Jansen-orange?style=for-the-badge&logo=github)](#) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/debora-jansen/)
+[![Debora Jansen](https://img.shields.io/badge/Debora_Jansen-orange?style=for-the-badge&logo=github)](https://github.com/DeboraJansen95) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/debora-jansen/)
 
 [![Trello](https://img.shields.io/badge/Trello-purple?style=for-the-badge&logo=trello&logoColor=white)](#)
 
@@ -70,16 +70,14 @@ Nesso projeto estamos analisando criptomoedas, para entender seus padrões de va
 ![Stars](https://img.shields.io/github/stars/NewKanvas/Projeto-5?style=for-the-badge)
 ![Issues](https://img.shields.io/github/issues/NewKanvas/Projeto-5?style=for-the-badge)
 
-
-# 🤝 Colaboradores
-
 <table>
   <tr>
     <td align="center">
       <a href="https://github.com/NewKanvas">
         <img src="https://github.com/NewKanvas.png" width="100px;" alt=""/><br>
         <sub><b>Cássio Ramos</b></sub>
-      </a><br>
+      </a>
+      <br>
       <a href="https://github.com/NewKanvas">GitHub</a> |
       <a href="https://www.linkedin.com/in/cassiosramos/">LinkedIn</a>
     </td>
@@ -87,7 +85,8 @@ Nesso projeto estamos analisando criptomoedas, para entender seus padrões de va
       <a href="https://github.com/alsantosad">
         <img src="https://github.com/alsantosad.png" width="100px;" alt=""/><br>
         <sub><b>Alessandro Brito</b></sub>
-      </a><br>
+      </a>
+      <br>
       <a href="https://github.com/alsantosad">GitHub</a> |
       <a href="https://www.linkedin.com/in/alessandrobritoad/">LinkedIn</a>
     </td>
@@ -97,7 +96,8 @@ Nesso projeto estamos analisando criptomoedas, para entender seus padrões de va
       <a href="https://github.com/CezarHick">
         <img src="https://github.com/CezarHick.png" width="100px;" alt=""/><br>
         <sub><b>Cezar Henrique</b></sub>
-      </a><br>
+      </a>
+      <br>
       <a href="https://github.com/CezarHick">GitHub</a> |
       <a href="https://www.linkedin.com/in/cezarh-gomes/">LinkedIn</a>
     </td>
@@ -105,7 +105,8 @@ Nesso projeto estamos analisando criptomoedas, para entender seus padrões de va
       <a href="https://github.com/FelipeDamicoCapitao">
         <img src="https://github.com/FelipeDamicoCapitao.png" width="100px;" alt=""/><br>
         <sub><b>Felipe Damico</b></sub>
-      </a><br>
+      </a>
+      <br>
       <a href="https://github.com/FelipeDamicoCapitao">GitHub</a> |
       <a href="#">LinkedIn</a>
     </td>
@@ -115,19 +116,22 @@ Nesso projeto estamos analisando criptomoedas, para entender seus padrões de va
       <a href="https://github.com/dria99">
         <img src="https://github.com/dria99.png" width="100px;" alt=""/><br>
         <sub><b>Drielli Almeida</b></sub>
-      </a><br>
+      </a>
+      <br>
       <a href="https://github.com/dria99">GitHub</a> |
       <a href="https://www.linkedin.com/in/drielli-ao/">LinkedIn</a>
     </td>
     <td align="center">
-    <a href="https://www.linkedin.com/in/debora-jansen/">
-        <img src="https://raw.githubusercontent.com/ChatGPT/discord_commands/main/assets/linkedin_icon.png" width="100px;" alt="Ícone do LinkedIn"/><br>
+      <a href="https://github.com/DeboraJansen95">
+        <img src="https://github.com/DeboraJansen95.png" width="100px;" alt=""/><br>
         <sub><b>Debora Jansen</b></sub>
-    </a><br>
-    <a href="#">GitHub</a> |
-    <a href="https://www.linkedin.com/in/debora-jansen/">LinkedIn</a>
+      </a>
+      <br>
+      <a href="https://github.com/DeboraJansen95">GitHub</a> |
+      <a href="https://www.linkedin.com/in/debora-jansen/">LinkedIn</a>
     </td>
   </tr>
 </table>
+
 
 
