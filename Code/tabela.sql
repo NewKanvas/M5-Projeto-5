@@ -31,8 +31,8 @@ ALTER TABLE data_tab
 
 
 -- IMPORTAÇÕES
--- Função para adcionar moedas de acordo com a tabela csv:
-LOAD DATA INFILE 'I:/Meu Drive/Felipe Damico Python/Projeto-5/Data/cadastro_moeda.csv'
+-- Função para adicionar moedas de acordo com a tabela csv:
+LOAD DATA LOCAL INFILE '../Data/cadastro_moeda.csv'
 REPLACE INTO TABLE moeda_tab
 FIELDS TERMINATED BY ','
 ENCLOSED BY ''
@@ -42,7 +42,7 @@ IGNORE 1 ROWS;
 SELECT * FROM moeda_tab;
 
 -- IMPORTAÇÕES
-LOAD DATA INFILE 'I:/Meu Drive/Felipe Damico Python/Projeto-5/Data/criptomoedas.csv'
+LOAD DATA LOCAL INFILE '../Data/criptomoedas.csv'
 REPLACE INTO TABLE data_tab
 FIELDS TERMINATED BY ','
 ENCLOSED BY ''
