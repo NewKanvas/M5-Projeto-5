@@ -2,6 +2,7 @@ DROP DATABASE IF EXISTS MOEDAS;
 CREATE DATABASE MOEDAS;
 USE MOEDAS;
 
+GRANT FILE ON *.* TO 'root'@'localhost';
 
 -- Cria a Tabela "moeda_tab" - Cadastro de Moedas
 CREATE TABLE moeda_tab (
@@ -32,7 +33,7 @@ ALTER TABLE data_tab
 
 -- IMPORTAÇÕES
 -- Função para adicionar moedas de acordo com a tabela csv:
-LOAD DATA LOCAL INFILE '../Data/cadastro_moeda.csv'
+LOAD DATA INFILE '../Data/cadastro_moeda.csv'
 REPLACE INTO TABLE moeda_tab
 FIELDS TERMINATED BY ','
 ENCLOSED BY ''
@@ -42,7 +43,7 @@ IGNORE 1 ROWS;
 SELECT * FROM moeda_tab;
 
 -- IMPORTAÇÕES
-LOAD DATA LOCAL INFILE '../Data/criptomoedas.csv'
+LOAD DATA INFILE '../Data/criptomoedas.csv'
 REPLACE INTO TABLE data_tab
 FIELDS TERMINATED BY ','
 ENCLOSED BY ''
