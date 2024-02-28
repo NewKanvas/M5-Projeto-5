@@ -130,5 +130,3 @@ Nesso projeto estamos analisando criptomoedas, para entender seus padrões de va
 ![Watchers](https://img.shields.io/github/watchers/NewKanvas/Projeto-5?style=for-the-badge)
 ![Stars](https://img.shields.io/github/stars/NewKanvas/Projeto-5?style=for-the-badge)
 ![Issues](https://img.shields.io/github/issues/NewKanvas/Projeto-5?style=for-the-badge)
-
-

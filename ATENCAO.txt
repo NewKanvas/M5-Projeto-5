@@ -1,2 +1,0 @@
-Faça uma copia da pasta data para:
-'C:\xampp\mysql\data'
