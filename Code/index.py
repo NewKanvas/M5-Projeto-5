@@ -16,7 +16,7 @@ def copiar_pasta(origem, destino):
 
 
 # Define os diretórios de origem e destino
-diretorio_origem = "Projeto-5/Data"
+diretorio_origem = "M5-Projeto-5/Data"
 diretorio_destino = r"C:\xampp\mysql\data\Data"
 
 # Chama a função para copiar a pasta
