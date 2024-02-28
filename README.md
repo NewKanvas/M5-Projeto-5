@@ -100,11 +100,24 @@ Nesso projeto estamos analisando criptomoedas, para entender seus padrões de va
       <a href="https://github.com/DeboraJansen95">GitHub</a> |
       <a href="https://www.linkedin.com/in/debora-jansen/">LinkedIn</a>
     </td>
+    <td align="center" style="text-align: center;">
+      <a href="https://github.com/jordaozz">
+        <img src="https://github.com/jordaozz.png" width="100px;" alt=""/><br>
+        <sub><b>Gabriel Jordão</b></sub>
+      </a>
+      <br>
+      <a href="https://github.com/jordaozz">GitHub</a> |
+      <a href="#">LinkedIn</a>
+    </td>
   </tr>
 </table>
 
+<p align="center">
+  <a href="https://trello.com/b/BoRVSghH/projeto-m%C3%B3dulo-5">
+    <img src="https://img.shields.io/badge/Trello-purple?style=for-the-badge&logo=trello&logoColor=white" alt="Trello">
+  </a>
+</p>
 
-[![Trello](https://img.shields.io/badge/Trello-purple?style=for-the-badge&logo=trello&logoColor=white)](#)
 
 ---
 
