@@ -107,7 +107,7 @@ Nesso projeto estamos analisando criptomoedas, para entender seus padrões de va
       </a>
       <br>
       <a href="https://github.com/jordaozz">GitHub</a> |
-      <a href="#">LinkedIn</a>
+      <a href="https://www.linkedin.com/in/gabriel-jord%C3%A3o-5aa09a25b/">LinkedIn</a>
     </td>
   </tr>
 </table>
