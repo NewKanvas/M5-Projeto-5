@@ -35,7 +35,9 @@ Nesso projeto estamos analisando criptomoedas, para entender seus padrões de va
 
 ## Resultados das Análises
 
-[...]
+Os dados foram carregados e tratados atraves do python pelo [notebook](Code/crypto_anlys.ipynb), as moedas tambem sao selecionads  , que salva os dados na pasta [Data](Data) e é enviada pelo [index.py](Code/index.py) para a pasta do XAMPP.
+
+O dados são importados para o banco de dados atraves do [query.sql](Code/query.sql).
 
 ## Download
 
@@ -92,15 +94,6 @@ Nesso projeto estamos analisando criptomoedas, para entender seus padrões de va
       <a href="https://www.linkedin.com/in/drielli-ao/">LinkedIn</a>
     </td>
     <td align="center" style="text-align: center;">
-      <a href="https://github.com/DeboraJansen95">
-        <img src="https://github.com/DeboraJansen95.png" width="100px;" alt=""/><br>
-        <sub><b>Debora Jansen</b></sub>
-      </a>
-      <br>
-      <a href="https://github.com/DeboraJansen95">GitHub</a> |
-      <a href="https://www.linkedin.com/in/debora-jansen/">LinkedIn</a>
-    </td>
-    <td align="center" style="text-align: center;">
       <a href="https://github.com/jordaozz">
         <img src="https://github.com/jordaozz.png" width="100px;" alt=""/><br>
         <sub><b>Gabriel Jordão</b></sub>
@@ -121,7 +114,6 @@ Nesso projeto estamos analisando criptomoedas, para entender seus padrões de va
 
 ---
 
-## Status
 ![GitHub Repo Size](https://img.shields.io/github/repo-size/NewKanvas/Projeto-5?style=for-the-badge&logo=github)
 ![GitHub last commit](https://img.shields.io/github/last-commit/NewKanvas/Projeto-5?style=for-the-badge&logo=git)
 [![Licença](https://img.shields.io/github/license/NewKanvas/Projeto-5?style=for-the-badge)](./LICENSE)

@@ -18,8 +18,6 @@ CREATE TABLE cripto_tab (
     `marketcap` DECIMAL(18, 2)
 );
 
-
-
 -- INSERT
 
 LOAD DATA INFILE 'Data/criptomoedas.csv'
