@@ -39,6 +39,8 @@ Os dados foram carregados e tratados atraves do python pelo [notebook](Code/cryp
 
 O dados são importados para o banco de dados atraves do [query.sql](Code/query.sql).
 
+As tabelas foram montadas no [Tableau Public Web](https://public.tableau.com/authoring/M5Criptomoedas/ValoresdeFechamentoeAbertura#1).
+
 ## Download
 
 [![Download ZIP](https://img.shields.io/badge/Download_-ZIP-green?style=for-the-badge&logo=github)](https://github.com/NewKanvas/Projeto-5/archive/main.zip)
