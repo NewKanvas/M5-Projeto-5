@@ -39,7 +39,7 @@ Os dados foram carregados e tratados atraves do python pelo [notebook](Code/cryp
 
 O dados são importados para o banco de dados atraves do [query.sql](Code/query.sql).
 
-As tabelas foram montadas no [Tableau Public Web](https://public.tableau.com/authoring/M5Criptomoedas/ValoresdeFechamentoeAbertura#1).
+As tabelas foram montadas no [Tableau Public Web](https://public.tableau.com/app/profile/cassio.ramos/viz/M5Criptomoedas/ValoresdeFechamentoeAbertura).
 
 ## Download
 
