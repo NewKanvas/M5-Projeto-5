@@ -1,0 +1,2 @@
+- Execute o index.py ANTES de exutar o SQL
+- Execute o index para atualizar a pasta data para o xampp

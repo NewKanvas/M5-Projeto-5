@@ -35,7 +35,11 @@ Nesso projeto estamos analisando criptomoedas, para entender seus padrões de va
 
 ## Resultados das Análises
 
-[...]
+Os dados foram carregados e tratados atraves do python pelo [notebook](Code/crypto_anlys.ipynb), as moedas tambem sao selecionads  , que salva os dados na pasta [Data](Data) e é enviada pelo [index.py](Code/index.py) para a pasta do XAMPP.
+
+O dados são importados para o banco de dados atraves do [query.sql](Code/query.sql).
+
+As tabelas foram montadas no [Tableau Public Web](https://public.tableau.com/app/profile/cassio.ramos/viz/CriptoMoedas/TradingsPrices#2).
 
 ## Download
 
@@ -92,23 +96,26 @@ Nesso projeto estamos analisando criptomoedas, para entender seus padrões de va
       <a href="https://www.linkedin.com/in/drielli-ao/">LinkedIn</a>
     </td>
     <td align="center" style="text-align: center;">
-      <a href="https://github.com/DeboraJansen95">
-        <img src="https://github.com/DeboraJansen95.png" width="100px;" alt=""/><br>
-        <sub><b>Debora Jansen</b></sub>
+      <a href="https://github.com/jordaozz">
+        <img src="https://github.com/jordaozz.png" width="100px;" alt=""/><br>
+        <sub><b>Gabriel Jordão</b></sub>
       </a>
       <br>
-      <a href="https://github.com/DeboraJansen95">GitHub</a> |
-      <a href="https://www.linkedin.com/in/debora-jansen/">LinkedIn</a>
+      <a href="https://github.com/jordaozz">GitHub</a> |
+      <a href="https://www.linkedin.com/in/gabriel-jord%C3%A3o-5aa09a25b/">LinkedIn</a>
     </td>
   </tr>
 </table>
 
+<p align="center">
+  <a href="https://trello.com/b/BoRVSghH/projeto-m%C3%B3dulo-5">
+    <img src="https://img.shields.io/badge/Trello-purple?style=for-the-badge&logo=trello&logoColor=white" alt="Trello">
+  </a>
+</p>
 
-[![Trello](https://img.shields.io/badge/Trello-purple?style=for-the-badge&logo=trello&logoColor=white)](#)
 
 ---
 
-## Status
 ![GitHub Repo Size](https://img.shields.io/github/repo-size/NewKanvas/Projeto-5?style=for-the-badge&logo=github)
 ![GitHub last commit](https://img.shields.io/github/last-commit/NewKanvas/Projeto-5?style=for-the-badge&logo=git)
 [![Licença](https://img.shields.io/github/license/NewKanvas/Projeto-5?style=for-the-badge)](./LICENSE)
@@ -117,5 +124,3 @@ Nesso projeto estamos analisando criptomoedas, para entender seus padrões de va
 ![Watchers](https://img.shields.io/github/watchers/NewKanvas/Projeto-5?style=for-the-badge)
 ![Stars](https://img.shields.io/github/stars/NewKanvas/Projeto-5?style=for-the-badge)
 ![Issues](https://img.shields.io/github/issues/NewKanvas/Projeto-5?style=for-the-badge)
-
-
