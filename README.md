@@ -96,6 +96,15 @@ As tabelas foram montadas no [Tableau Public Web](https://public.tableau.com/app
       <a href="https://www.linkedin.com/in/drielli-ao/">LinkedIn</a>
     </td>
     <td align="center" style="text-align: center;">
+      <a href="https://github.com/DeboraJansen95">
+        <img src="https://github.com/DeboraJansen95.png" width="100px;" alt=""/><br>
+        <sub><b>Debora Jansen</b></sub>
+      </a>
+      <br>
+      <a href="https://github.com/DeboraJansen95">GitHub</a> |
+      <a href="https://www.linkedin.com/in/debora-jansen/">LinkedIn</a>
+    </td>
+    <td align="center" style="text-align: center;">
       <a href="https://github.com/jordaozz">
         <img src="https://github.com/jordaozz.png" width="100px;" alt=""/><br>
         <sub><b>Gabriel Jordão</b></sub>
