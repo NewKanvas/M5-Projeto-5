@@ -1,0 +1,20 @@
+A análise deverá responder às seguintes perguntas:
+
+1. Como se comportaram os valores para todas as criptomoedas? Os valores tiveram uma 
+tendência de queda ou de aumento?
+
+Durante o ano de 2014 e 2019 o bitcoin aprensentou certa queda, porem durante o periodo de todos os anos, houve uma tendencia de aumento para todas as moedas, algumas moedas mais novas apresentaram um crecimento de tendencia menor mas ainda sim é uma tendencia de aumento.
+
+2. Quais os valores médios para todas as criptomoedas?
+
+3. Em quais anos houve maiores quedas e valorizações?
+
+4. Existe alguma tendência de aumento ou queda dos valores pelo dia da semana?
+
+5. Qual moeda se mostra mais interessante em relação à valorização pela análise da série 
+histórica?
+
+6. Qual moeda se mostra menos interessante em relação à valorização pela análise da série 
+histórica?
+
+7. Existe correlação entre os valores para todas as criptomoedas?
