@@ -1,0 +1,31 @@
+A análise deverá responder às seguintes perguntas:
+
+1. Como se comportaram os valores para todas as criptomoedas? Os valores tiveram uma tendência de queda ou de aumento?
+
+Analisando todos os anos em conjunto, as moedas apresentam uma tendência de aumento, com ênfase na Bitcoin. Analisando os anos individualmente, os anos de 2017 e 2020 apresentaram uma tendência de crescimento bastante alta em comparação com os demais. As outras moedas tambem apresentaram um crescimento nos anos de 2017 e 2020 mas bem menor comparado ao Bitcoin e a Ethereum.
+
+As maiores quedas ocorreram nos anos de 2019, mantendo-se em baixa até o final de 2020 e apresentando um crescimento em 2021 seguido por uma queda, isso ocorreu para todas as moedas.
+
+2. Quais são os valores médios para todas as criptomoedas?
+
+A Bitcoin apresenta sua maior média no ano de 2021, em $45,539, sendo a maior média no mês de abril de $57,206.72. Logo atrás, no mesmo ano, está a Ethereum, com sua média de $2,077.09, sendo a maior média do mês de maio de $3,140.
+
+3. Em quais anos houve as maiores quedas e valorizações?
+
+Para todas as moedas, em 2018 e por volta de maio de 2021.
+
+4. Existe alguma tendência de aumento ou queda dos valores pelo dia da semana?
+
+Há uma tendência de muito pouca variação e sem padrão, mudando em cada ano.
+
+5. Qual moeda se mostra mais interessante em relação à valorização pela análise da série histórica?
+
+A Bitcoin foi a que teve maior valorização, seguida pela Ethereum. A Aave, que surgiu mais recentemente, teve um alto aumento em seu valor.
+
+6. Qual moeda se mostra menos interessante em relação à valorização pela análise da série histórica?
+
+A Solana teve o menor aumento desde o lançamento, mas sofreu uma queda no final de 2021. Já a Cosmo teve um dos menores aumentos e ficou com o menor valor entre as 10 no final de 2021.
+
+7. Existe correlação entre os valores para todas as criptomoedas?
+
+**Corrigir grafico
