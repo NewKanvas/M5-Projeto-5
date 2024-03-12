@@ -27,7 +27,7 @@ Nesse projeto estamos analisando criptomoedas, para entender seus padrões de va
 - `README.md`: Documentação principal do projeto.
 
 ## PDF do Projeto
-- [PDF com Instruções e Detalhes do Projeto](Doc/Material/1694467316_SEDADOSM5Projetoemgrupopdf.pdf)
+- [PDF com Instruções e Detalhes do Projeto](Doc/Projetoemgrupo.pdf)
 
 ## Requisitos
 
