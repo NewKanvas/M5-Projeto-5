@@ -29,3 +29,7 @@ A Solana teve o menor aumento desde o lançamento, mas sofreu uma queda no final
 7. Existe correlação entre os valores para todas as criptomoedas?
 
 **Corrigir grafico
+
+8. Qual foi o dia da semana com o maior volume de negociação para cada criptomoeda?
+
+9. Existe um dia da semana onde as criptomoedas ficam mais valorizadas?
