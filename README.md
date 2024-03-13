@@ -54,43 +54,63 @@ O [PDF](Doc/Projetoemgrupo.pdf) do dashboard pode ser encontrado na pasta [Doc](
 |-----------|--------------|
 | ![](Doc/Images/Dashboard%20Criptomoedas(1).png) | ![](Doc/Images/Dashboard%20Criptomoedas(2).png) |
 
-> Analisando todos os anos em conjunto, as moedas apresentam uma tendência de aumento, com ênfase na Bitcoin. Analisando os anos individualmente, os anos de 2017 e 2020 apresentaram uma tendência de crescimento bastante alta em comparação com os demais. As outras moedas tambem apresentaram um crescimento nos anos de 2017 e 2020 mas bem menor comparado ao Bitcoin e a Ethereum.
+
+> **Análise de Tendências Anuais:**
 >
-> As maiores quedas ocorreram nos anos de 2019, mantendo-se em baixa até o final de 2020 e apresentando um crescimento em 2021 seguido por uma queda, isso ocorreu para todas as moedas.
+> Em geral, todas as moedas apresentaram uma tendência de aumento ao longo dos anos, com destaque para a Bitcoin. Os anos de **2017** e **2020** se destacaram por um crescimento expressivo, especialmente para a Bitcoin e a Ethereum. As outras moedas também experimentaram um aumento, mas em uma escala menor em comparação com essas duas.
+>
+> **Variações Anuais:**
+>
+> As maiores quedas foram observadas em **2019**, seguidas por um período de baixa até o final de **2020**. Em **2021**, houve um retorno ao crescimento, seguido por uma queda posterior. Esses padrões foram consistentes para todas as moedas analisadas.
 
 ---
 
 ![](Doc/Images/Dashboard%20Criptomoedas.png)
 
-> A Bitcoin foi a que teve maior valorização, seguida pela Ethereum. A Aave, que surgiu mais recentemente, teve um alto aumento em seu valor.
-> 
-> A Solana teve o menor aumento desde o lançamento, mas sofreu uma queda no final de 2021. Já a Cosmo teve um dos menores aumentos e ficou com o menor valor entre as 10 no final de 2021.
+> **Atraves desse grafico podemos verificar valores de forma mais precisa.**
+>
+> A **Bitcoin** e a **Ethereum** lideraram em valorização, seguidas pela Aave, que teve um aumento significativo desde sua criação. 
+>
+> Por outro lado, a **Solana** teve um crescimento mais lento e enfrentou uma queda no final de 2021, enquanto a **Cosmo** teve um dos menores aumentos e o menor valor entre as 10 criptomoedas no final de 2021.
+>
+>> *Observou-se que quase todas as criptomoedas atingiram seu pico em maio de 2021, com exceção da Bitcoin, que alcançou seu ápice em abril. Isso sugere que, como a Bitcoin é a principal referência do mercado, seu aumento precedeu o crescimento das outras moedas em maio, mostrando uma correlação significativa entre seus movimentos de mercado.*
 
 ---
 
-![](Doc/Images/Dashboard%20Criptomoedas(3).png)
 
-> Analizando para ver se existe alguma tendência de aumento ou queda dos valores pelo dia da semana, concluímos que.
 
-> Há uma tendência de muito pouca variação e sem padrão, mudando a cada ano.
->
-> Em termos gerais, pode-se dizer que não há uma tendência ligada aos dias da semana.
+| Soma | Médias |
+|-----------|--------------|
+| ![](Doc/Images/Dashboard%20Criptomoedas(3).png) | ![](Doc/Images/Dashboard%20Criptomoedas(3B).png) |
+
+> Analisando se existe alguma tendência de aumento ou queda dos valores pelo dia da semana, observamos que há uma variação mínima e ausência de padrão consistente de acordo com os anos
+> 
+> Ao examinar o gráfico, notamos uma tendência no ano de **2021**, onde os valores de venda da **Bitcoin** eram mais baixos às **quartas** e **quintas-feiras.** Essa variação pode ser atribuída à presença reduzida desses dias durante esse período específico, como indicado pelo gráfico.
+> 
+>No entanto, ao calcular a média dos valores, podemos realizar uma análise mais precisa e observamos que **não há uma tendência definida por dia da semana** ao longo dos anos.
 
 ---
 
 ![](Doc/Images/Dashboard%20Criptomoedas(4).png)
 
-
+> **Dia da Semana com Maior Volume de Negociação:**
 >
+> - **Bitcoin:** Picos de volume em Sextas-Feiras em 2021.
+> - **Ethereum:** Picos em Segundas e Quartas-Feiras em 2021.
+> - **Litecoin:** Pico em Quintas-Feiras em 2020; declínio em 2021.
+
 
 ---
 
 ![](Doc/Images/Dashboard%20Criptomoedas(5).png)
 
-> Existe correlçao principalente com a Bitcoin na maioria dos anos, porem no ano de 2021 e que a correlação varia algumas tendo bem menos que outras. Por conta da sua queda as pessoas começara a comprar outras moedas, fazendo com que a correlação ficasse assim
->
-> Em geral existe uma correlação forte da bitcoin com as outras moedas.
-> As outras medidas e anos podem se visualizada acessando grafico interativo
+> Observamos uma correlação significativa entre as moedas na maioria dos anos, indicando uma tendência geral de movimento conjunto entre elas.
+> 
+> Em 2021, houve uma variação na correlação entre as moedas, com algumas apresentando correlações menores do que em anos anteriores. Essa mudança pode ser atribuída à queda no valor da **Bitcoin**, levando os investidores a diversificar seus investimentos em busca de melhores oportunidades. 
+> 
+> Em resumo, enquanto observamos uma correlação forte entre as moedas em anos anteriores, a diversificação dos investimentos em 2021 levou a uma redução da correlação entre algumas delas.
+> 
+> As outras medidas e anos podem ser visualizada acessando grafico interativo
 
 ---
 
