@@ -32,9 +32,9 @@ A Solana teve o menor aumento desde o lançamento, mas sofreu uma queda no final
 
 8. Qual foi o dia da semana com o maior volume de negociação para cada criptomoeda?
 
-Bitcoin: Em 2020 nas Quintas Feiras e em 2021 nas Sextas Feiras.
 Aave: Em 2021 ela teve um grande volume de negociação nas Quartas Feiras.
 Binance Coin: Em 2021 foi quando ela teve um grande aumento de negociação de mercado, e o pico era nas Terças Feiras.
+Bitcoin: Em 2020 nas Quintas Feiras e em 2021 nas Sextas Feiras.
 Cosmos: Em 2021 foi quando ela teve uma grande subida em negociações também, seu pico foi nas Sextas Feiras.
 Ethereum: Em 2020 teve picos nas Quintas Feiras, e em 2021 teve picos nas Segundas Feiras e nas Quartas Feiras, com um valor de negociação bem próximo.
 Litecoin: Em 2020 o pico foi nas Quintas Feiras, e em 2021 ela teve uma queda onde seu valor de negociação não atingiu mais este pico.
@@ -45,4 +45,18 @@ Uniswap: Sua subida foi em 2021, e seus picos aconteciam nas Segundas Feiras.
 
 OBS: Uma conclusão geral que podemos tirar, é que o volume de negociação das criptomoedas normalmente tem uma queda no sábado, e começam a voltar no domingo.
 
-9. Existe um dia da semana onde as criptomoedas ficam mais valorizadas?
+9. Qual foi o dia exato onde aconteceu a maior alta nos valores de cada moeda?
+
+Aave: 18/05/2021 - $667
+Binance Coin: 10/05/2021 - $691
+Bitcoin: 14/04/2021 - $64.863
+Cosmos: 07/05/2021 - $32,14
+Ethereum: 12/05/2021 - $4.361
+Litecoin: 10/05/2021 - $413
+Monero: 07/05/2021 - $517,6
+Polkadot: 15/05/2021 - $49,69
+Solana: 18/05/2021 - $58,30
+Uniswap: 03/05/2021 - $44,97
+
+OBS: Como conclusão geral, podemos ver que quase todas as criptomoedas tiveram seu pico em Maio de 2021, com excessão apenas da Bitcoin que teve seu pico em Abril, porém com isso é perceptível que como a Bitcoin é a referência das moedas, quando ela teve uma alta, as outras começaram a subir em seguida, por isso todas subiram no mês de Maio, que sucede Abril, mês em que a Bitcoin teve sua alta.
+
