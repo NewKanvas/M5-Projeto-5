@@ -52,7 +52,7 @@ O [PDF](Doc/Projetoemgrupo.pdf) do dashboard pode ser encontrado na pasta [Doc](
 
 | Médias | Médias Sem BitCoin |
 |-----------|--------------|
-| ![](Doc/Images/Dashboard%20Criptomoedas.png) | ![](Doc/Images/Dashboard%20Criptomoedas(1).png) |
+| ![](Doc/Images/Dashboard%20Criptomoedas(1).png) | ![](Doc/Images/Dashboard%20Criptomoedas(2).png) |
 
 > Analisando todos os anos em conjunto, as moedas apresentam uma tendência de aumento, com ênfase na Bitcoin. Analisando os anos individualmente, os anos de 2017 e 2020 apresentaram uma tendência de crescimento bastante alta em comparação com os demais. As outras moedas tambem apresentaram um crescimento nos anos de 2017 e 2020 mas bem menor comparado ao Bitcoin e a Ethereum.
 >
@@ -60,7 +60,7 @@ O [PDF](Doc/Projetoemgrupo.pdf) do dashboard pode ser encontrado na pasta [Doc](
 
 ---
 
-![](Doc/Images/Dashboard%20Criptomoedas(2).png)
+![](Doc/Images/Dashboard%20Criptomoedas.png)
 
 > A Bitcoin foi a que teve maior valorização, seguida pela Ethereum. A Aave, que surgiu mais recentemente, teve um alto aumento em seu valor.
 > 
