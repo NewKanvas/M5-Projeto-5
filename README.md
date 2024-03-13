@@ -55,7 +55,7 @@ O [PDF](Doc/Projetoemgrupo.pdf) do dashboard pode ser encontrado na pasta [Doc](
 | ![](Doc/Images/Dashboard%20Criptomoedas.png) | ![](Doc/Images/Dashboard%20Criptomoedas(1).png) |
 
 > Analisando todos os anos em conjunto, as moedas apresentam uma tendência de aumento, com ênfase na Bitcoin. Analisando os anos individualmente, os anos de 2017 e 2020 apresentaram uma tendência de crescimento bastante alta em comparação com os demais. As outras moedas tambem apresentaram um crescimento nos anos de 2017 e 2020 mas bem menor comparado ao Bitcoin e a Ethereum.
-
+>
 > As maiores quedas ocorreram nos anos de 2019, mantendo-se em baixa até o final de 2020 e apresentando um crescimento em 2021 seguido por uma queda, isso ocorreu para todas as moedas.
 
 ---
@@ -63,7 +63,7 @@ O [PDF](Doc/Projetoemgrupo.pdf) do dashboard pode ser encontrado na pasta [Doc](
 ![](Doc/Images/Dashboard%20Criptomoedas(2).png)
 
 > A Bitcoin foi a que teve maior valorização, seguida pela Ethereum. A Aave, que surgiu mais recentemente, teve um alto aumento em seu valor.
-
+> 
 > A Solana teve o menor aumento desde o lançamento, mas sofreu uma queda no final de 2021. Já a Cosmo teve um dos menores aumentos e ficou com o menor valor entre as 10 no final de 2021.
 
 ---
@@ -73,8 +73,24 @@ O [PDF](Doc/Projetoemgrupo.pdf) do dashboard pode ser encontrado na pasta [Doc](
 > Analizando para ver se existe alguma tendência de aumento ou queda dos valores pelo dia da semana, concluímos que.
 
 > Há uma tendência de muito pouca variação e sem padrão, mudando a cada ano.
-
+>
 > Em termos gerais, pode-se dizer que não há uma tendência ligada aos dias da semana.
+
+---
+
+![](Doc/Images/Dashboard%20Criptomoedas(4).png)
+
+
+>
+
+---
+
+![](Doc/Images/Dashboard%20Criptomoedas(5).png)
+
+> Existe correlçao principalente com a Bitcoin na maioria dos anos, porem no ano de 2021 e que a correlação varia algumas tendo bem menos que outras. Por conta da sua queda as pessoas começara a comprar outras moedas, fazendo com que a correlação ficasse assim
+>
+> Em geral existe uma correlação forte da bitcoin com as outras moedas.
+> As outras medidas e anos podem se visualizada acessando grafico interativo
 
 ---
 
