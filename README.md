@@ -39,6 +39,11 @@ Nesse projeto estamos analisando criptomoedas, para entender seus padrões de va
 - Tableau: Você pode baixar o [Tableau Desktop ou o Tableau Public](https://www.tableau.com/pt-br/products/desktop/download)
 
 ## Resultados das Análises
+**Antes de continuar, certifique-se de revisar os relatórios disponíveis:**
+
+- **[Relatório Técnico Detalhado](Doc/Material/Relatório.md)**
+- **[Análise Exploratória](Doc/Material/Analises.md)**
+- **[Resumo das Análises](Doc/Material/Respostas.md)**
 
 Os dados foram carregados e tratados através do Python pelo [notebook](Code/crypto_anlys.ipynb), as moedas também são selecionadas, que salva os dados na pasta [Data](Data) e é enviada pelo [index.py](Code/index.py) para a pasta do XAMPP.
 
@@ -117,8 +122,7 @@ Seguido pela Ethereum com 83221,86% de valorização.
 
 ---
 
-*As [respostas](Doc/Material/Repostas.txt) podem ser encontradas na pasta [/Material](Doc/Material/).
-Também pode usar a [Analises](Doc/Material/Analises.txt) onde tem analises mais profundas.*
+*Você pode acessar um relatório técnico detalhado sobre o processo de importação, tratamento e visualização dos dados em [Material/Relatório.md](Doc/Material/Relatório.md). Além disso, um arquivo markdown contendo uma análise exploratória está disponível em [Material/Analises.md](Doc/Material/Analises.md), enquanto um resumo das análises, fornecendo respostas diretas e concisas, pode ser encontrado em [Material/Respostas.md](Doc/Material/Respostas.md).*
 
 ## Downloads
 
