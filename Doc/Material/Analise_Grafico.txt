@@ -43,7 +43,7 @@ Polkadot: Em 2021 foi sua subida, onde seu pico acontecia nas Quartas Feiras.
 Solana: Esta moeda não tem tanto valor de negociação quanto as outras, mas seu pico foi em 2021, nas Quartas Feiras.
 Uniswap: Sua subida foi em 2021, e seus picos aconteciam nas Quartas Feiras.
 
-OBS: Uma conclusão geral que podemos tirar, é que o volume de negociação das criptomoedas normalmente tem uma queda no sábado, e começam a voltar no domingo.
+OBS: Uma conclusão geral que podemos tirar, é que o volume de negociação das criptomoedas normalmente tem uma queda no sábado, e começam a voltar no domingo, com excessão da Monero, que acabou tendo um aumento nos domingos em 2020.
 
 9. Qual foi o dia exato onde aconteceu a maior alta nos valores de cada moeda?
 
