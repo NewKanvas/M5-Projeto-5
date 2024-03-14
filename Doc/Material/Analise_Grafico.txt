@@ -36,7 +36,7 @@ Aave: Em 2021 ela teve um grande volume de negociação nas Quartas Feiras.
 Binance Coin: Em 2021 foi quando ela teve um grande aumento de negociação de mercado, e o pico era nas Terças Feiras.
 Bitcoin: Em 2020 nas Quintas Feiras e em 2021 nas Sextas Feiras.
 Cosmos: Em 2021 foi quando ela teve uma grande subida em negociações também, seu pico foi nas Sextas Feiras.
-Ethereum: Em 2020 teve picos nas Quintas Feiras, e em 2021 teve picos nas Segundas Feiras e nas Quartas Feiras, com um valor de negociação bem próximo.
+Ethereum: Em 2020 teve picos nas Quintas Feiras, e em 2021 teve picos nas Quartas Feiras.
 Litecoin: Em 2020 o pico foi nas Quintas Feiras, e em 2021 ela teve uma queda onde seu valor de negociação não atingiu mais este pico.
 Monero: Em 2020 o pico acontecia nas Quintas Feiras, e em 2021 ela também teve uma queda de negociação, e não retornou a atingir esse pico.
 Polkadot: Em 2021 foi sua subida, onde seu pico acontecia nas Quartas Feiras.
