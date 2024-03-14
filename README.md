@@ -35,6 +35,8 @@ Nesse projeto estamos analisando criptomoedas, para entender seus padrões de va
 - **Pandas:** Instale com `!pip install pandas`
 - **NumPy:** Instale com `!pip install numpy`
 - **Matplotlib:** Instale com `!pip install matplotlib`
+- Leitor de PDF: Você pode usar o [Adobe Acrobat Reader](https://get.adobe.com/reader/)
+- Tableau: Você pode baixar o [Tableau Desktop ou o Tableau Public](https://www.tableau.com/pt-br/products/desktop/download)
 
 ## Resultados das Análises
 
@@ -69,9 +71,10 @@ O [PDF](Doc/Projetoemgrupo.pdf) do dashboard pode ser encontrado na pasta [Doc](
 
 > **Atraves desse grafico podemos verificar valores de forma mais precisa.**
 >
-> A **Bitcoin** e a **Ethereum** lideraram em valorização, seguidas pela Aave, que teve um aumento significativo desde sua criação. 
+> Com base na análise de seria historica, a que mais maior valorização foi a da Binance Coin atingindo 291.654,55% em relação ao seu valor inicial.
+Seguido pela Ethereum com 83221,86% de valorização.
 >
-> Por outro lado, a **Solana** teve um crescimento mais lento e enfrentou uma queda no final de 2021, enquanto a **Cosmo** teve um dos menores aumentos e o menor valor entre as 10 criptomoedas no final de 2021.
+> A cosmo e a que tem a menor valorização de 98,49% seguido pela Polkadot com 456,55%.
 >
 >> *Observou-se que quase todas as criptomoedas atingiram seu pico em maio de 2021, com exceção da Bitcoin, que alcançou seu ápice em abril. Isso sugere que, como a Bitcoin é a principal referência do mercado, seu aumento precedeu o crescimento das outras moedas em maio, mostrando uma correlação significativa entre seus movimentos de mercado.*
 
@@ -113,6 +116,9 @@ O [PDF](Doc/Projetoemgrupo.pdf) do dashboard pode ser encontrado na pasta [Doc](
 > As outras medidas e anos podem ser visualizada acessando grafico interativo
 
 ---
+
+*As [respostas](Doc/Material/Repostas.txt) podem ser encontradas na pasta [/Material](Doc/Material/).
+Também pode usar a [Analises](Doc/Material/Analises.txt) onde tem analises mais profundas.*
 
 ## Downloads
 

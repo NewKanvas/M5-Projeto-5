@@ -1,0 +1,29 @@
+1 - Ao analisar a tabela, é possível observar que a maioria das criptomoedas apresentou valorização em sua série histórica. O Bitcoin, embora tenha o maior valor absoluto, não registrou a maior valorização relativa, ocupando o terceiro lugar nesse aspecto.
+
+Foi realizado um recorte de dados a partir de 1º de janeiro de 2020 para analisar o impacto da pandemia de Covid-19 nas criptomoedas. Nesse período, a maioria das criptomoedas valorizou-se até a data de encerramento da análise. Tanto no último ano quanto nos últimos seis meses, a tendência predominante foi de aumento, com poucas exceções.
+
+No entanto, nos últimos três meses e no último mês, houve uma tendência geral de desvalorização das moedas, com algumas exceções. Esse fenômeno pode ser atribuído à retomada gradual das atividades econômicas ao longo de 2021, impulsionada pelos avanços científicos na vacinação contra a Covid-19. Isso levou a uma revisão da percepção de risco e resultou em uma diminuição do interesse por investimentos em criptomoedas.
+
+É importante destacar que essas observações são baseadas em análises históricas e em tendências passadas, e não garantem resultados futuros. O mercado de criptomoedas é altamente volátil e influenciado por uma ampla gama de fatores, como eventos econômicos, regulatórios e tecnológicos.
+
+---
+
+3 - No ano de 2017, foi registrado um notável aumento na valorização relativa das criptomoedas em relação ao ano anterior. O Ethereum, em particular, obteve um crescimento de aproximadamente 9400%, demonstrando uma performance exponencialmente positiva. A Bitcoin apresentou o crescimento mais "modesto", atingindo cerca de 1400%.
+
+O ano de 2018 foi marcado por uma reversão de tendência, com a maioria das criptomoedas experimentando desvalorização. Esse declínio pode ser atribuído, em grande parte, à correção de mercado após o período de alta intensidade observado em 2017. A especulação excessiva e a euforia resultaram em uma reavaliação dos ativos, levando a valores negativos em geral.
+
+Essa correção pode ser interpretada como uma resposta saudável para estabilizar o mercado e mitigar a exuberância irracional. O ano de 2018 foi desafiador para o setor das criptomoedas, com uma queda significativa nos preços e uma reavaliação do risco associado a esses ativos.
+
+Espero ter fornecido as informações solicitadas de forma técnica e precisa. Se houver alguma outra dúvida ou necessidade de esclarecimento adicional, fico à disposição para ajudar.
+
+---
+
+5 - Com base na análise da série histórica, considerando os dados fornecidos, é possível observar que a moeda Binance Coin apresenta 
+o coeficiente de valorização mais expressivo, atingindo a marca de 291,654.55% em relação ao seu valor inicial. 
+Esse resultado indica um desempenho significativamente superior em relação às demais moedas listadas.
+
+---
+
+6 - Com base na análise da série histórica, considerando os dados fornecidos, 
+a moeda que se mostra menos interessante em relação à valorização é o Cosmos, com um coeficiente de valorização de 98.49% em relação ao seu valor inicial. 
+Essa taxa de valorização é significativamente menor em comparação com as demais moedas listadas, indicando um desempenho inferior ao longo do período analisado.
