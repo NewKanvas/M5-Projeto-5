@@ -44,6 +44,7 @@ Nesse projeto estamos analisando criptomoedas, para entender seus padrões de va
 - **[Relatório Técnico Detalhado](Doc/Material/Relatório.md)**
 - **[Análise Exploratória](Doc/Material/Analises.md)**
 - **[Resumo das Análises](Doc/Material/Respostas.md)**
+- **[Dashboard do Tableau](https://public.tableau.com/app/profile/cassio.ramos/viz/CriptoMoedas/DashboardCriptomoedas)**
 
 Os dados foram importados do [Kaggle](https://www.kaggle.com/datasets/sudalairajkumar/cryptocurrencypricehistory) e passaram por um processo de limpeza e preparação através do Python pelo [notebook](Code/crypto_anlys.ipynb). As moedas também são selecionadas, e os dados são exportados para a pasta [Data](Data). 
 
