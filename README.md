@@ -49,14 +49,15 @@ Os dados foram importados do [Kaggle](https://www.kaggle.com/datasets/sudalairaj
 
 Em seguida, são enviados para a pasta do XAMPP utilizando o [index.py](Code/index.py) para facilitar. Os dados são importados para o MySQL através do [query.sql](Code/query.sql).
 
-Após o processamento inicial, decidimos utilizar a ferramenta de visualização Tableau para uma análise mais aprofundada.
-
-
 ![](Doc/Images/code.png)
 
-As tabelas foram montadas no [Tableau Public Web](https://public.tableau.com/app/profile/cassio.ramos/viz/CriptoMoedas/DashboardCriptomoedas). O arquivo do Tableau foi anexado e pode ser encontrado [aqui](Doc/CriptoMoedas.twbx).
+Após o processamento inicial, decidimos utilizar a ferramenta de visualização Tableau para uma análise mais aprofundada.
 
-O [PDF](Doc/Projetoemgrupo.pdf) do dashboard pode ser encontrado na pasta [Doc](Doc).
+As tabelas foram montadas atraves do [Tableau Public Web](https://public.tableau.com/app/profile/cassio.ramos/viz/CriptoMoedas/DashboardCriptomoedas). 
+
+O arquivo do Tableau foi anexado e pode ser encontrado [aqui](Doc/CriptoMoedas.twbx).
+
+O [PDF](Doc/Projetoemgrupo.pdf) do dashboard pode ser encontrado na pasta [Doc](Doc) junto com os arquivos ditos acima.
 
 ## ***DashBoard***
 
