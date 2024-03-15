@@ -44,7 +44,8 @@ Nesse projeto estamos analisando criptomoedas, para entender seus padrões de va
 - **[Relatório Técnico Detalhado](Doc/Material/Relatório.md)**
 - **[Análise Exploratória](Doc/Material/Analises.md)**
 - **[Resumo das Análises](Doc/Material/Respostas.md)**
-- **[Dashboard do Tableau](https://public.tableau.com/app/profile/cassio.ramos/viz/CriptoMoedas/DashboardCriptomoedas)**
+- **[Dashboard do Tableau](https://public.tableau.com/app/profile/cassio.ramos/viz/CriptoMoedas/DashboardCriptomoedas)/[PDF Dashboard](<Doc/Dashboard Criptomoedas.pdf>)**
+- **[Slides](Doc/Material/Analisando%20Criptomoedas.pptx)/[PDF Slide](<Doc/Material/Analisando Criptomoedas pdf.pdf>)**
 
 Os dados foram importados do [Kaggle](https://www.kaggle.com/datasets/sudalairajkumar/cryptocurrencypricehistory) e passaram por um processo de limpeza e preparação através do Python pelo [notebook](Code/crypto_anlys.ipynb). As moedas também são selecionadas, e os dados são exportados para a pasta [Data](Data). 
 
@@ -142,6 +143,19 @@ Seguido pela Ethereum com 83221,86% de valorização.
     <img src="https://img.shields.io/badge/Download-Tableau-yellow?style=for-the-badge&logo=tableau&logoColor=white" alt="Download Tableau">
   </a>
 </p>
+<p align="center">
+  <strong>Slide:</strong>
+</p>
+<p align="center">
+  <a href="https://github.com/NewKanvas/M5-Projeto-5/releases/download/v1.2/Analisando.Criptomoedas.pdf.pdf" style="margin-right: 20px;">
+    <img src="https://img.shields.io/badge/Download-PDF-blue?style=for-the-badge&logo=pdf&logoColor=white" alt="Download PDF">
+  </a>
+  <a href="https://github.com/NewKanvas/M5-Projeto-5/releases/download/v1.2/Analisando.Criptomoedas.pptx">
+    <img src="https://img.shields.io/badge/Download-PPTX-orange?style=for-the-badge&logo=powerpoint&logoColor=white" alt="Download PPTX">
+  </a>
+</p>
+
+
 
 ---
 
