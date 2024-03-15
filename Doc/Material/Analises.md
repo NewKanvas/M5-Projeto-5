@@ -2,8 +2,8 @@
 
 ## **1- Como se comportaram os valores para todas as criptomoedas? Os valores tiveram uma tendência de queda ou de aumento?**
 
-![](Doc/Images/Screenshot_1.jpg)
-![](Doc/Images/Screenshot_2.jpg)
+![](../Images/Screenshot_1.jpg)
+![](../Images/Screenshot_2.jpg)
 
 Ao analisar a tabela, é possível observar que a maioria das criptomoedas apresentou valorização em sua série histórica. O Bitcoin, embora tenha o maior valor absoluto, não registrou a maior valorização relativa, ocupando o terceiro lugar nesse aspecto.
 
@@ -17,13 +17,13 @@ No entanto, nos últimos três meses e no último mês, houve uma tendência ger
 
 ## **2- Quais os valores médios para todas as criptomoedas?**
 
-![](Doc/Images/Screenshot_3.jpg)
+![](../Images/Screenshot_3.jpg)
 
 ---
 
 ## **3. Em quais anos houve maiores quedas e valorizações?**
 
-![](Doc/Images/Screenshot_4.jpg)
+![](../Images/Screenshot_4.jpg)
 
 No ano de 2017, foi registrado um notável aumento na valorização relativa das criptomoedas em relação ao ano anterior. O Ethereum, em particular, obteve um crescimento de aproximadamente 9400%, demonstrando uma performance exponencialmente positiva. A Bitcoin apresentou o crescimento mais "modesto", atingindo cerca de 1400%.
 
@@ -37,14 +37,14 @@ Espero ter fornecido as informações solicitadas de forma técnica e precisa. S
 
 ## **4 - Existe alguma tendência de aumento ou queda dos valores pelo dia da semana?******
 
-![](Doc/Images/Screenshot_6.jpg)
+![](../Images/Screenshot_6.jpg)
 
 ---
 
 ## **5 - Qual moeda se mostra mais interessante em relação à valorização pela análise da série histórica?**
 
-![](Doc/Images/Screenshot_7.jpg)
-![](Doc/Images/Screenshot_8.jpg)
+![](../Images/Screenshot_7.jpg)
+![](../Images/Screenshot_8.jpg)
 
 Com base na análise da série histórica, considerando os dados fornecidos, é possível observar que a moeda Binance Coin apresenta
 o coeficiente de valorização mais expressivo, atingindo a marca de 291,654.55% em relação ao seu valor inicial.
@@ -54,7 +54,7 @@ Esse resultado indica um desempenho significativamente superior em relação às
 
 ## **6. Qual moeda se mostra menos interessante em relação à valorização pela análise da série histórica?**
 
-![](Doc/Images/Screenshot_9.jpg)
+![](../Images/Screenshot_9.jpg)
 
 Com base na análise da série histórica, considerando os dados fornecidos,
 a moeda que se mostra menos interessante em relação à valorização é o Cosmos, com um coeficiente de valorização de 98.49% em relação ao seu valor inicial.
@@ -64,7 +64,7 @@ Essa taxa de valorização é significativamente menor em comparação com as de
 
 ## **7- Analisando Correlação**
 
-![](Doc/Images/Screenshot_10.png)
+![](../Images/Screenshot_10.png)
 
 Observamos uma correlação significativa entre as moedas na maioria dos anos, indicando uma tendência geral de movimento conjunto entre elas.
 
