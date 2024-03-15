@@ -45,9 +45,12 @@ Nesse projeto estamos analisando criptomoedas, para entender seus padrões de va
 - **[Análise Exploratória](Doc/Material/Analises.md)**
 - **[Resumo das Análises](Doc/Material/Respostas.md)**
 
-Os dados foram carregados e tratados através do Python pelo [notebook](Code/crypto_anlys.ipynb), as moedas também são selecionadas, que salva os dados na pasta [Data](Data) e é enviada pelo [index.py](Code/index.py) para a pasta do XAMPP.
+Os dados foram importados do [Kaggle](https://www.kaggle.com/datasets/sudalairajkumar/cryptocurrencypricehistory) e passaram por um processo de limpeza e preparação através do Python pelo [notebook](Code/crypto_anlys.ipynb). As moedas também são selecionadas, e os dados são exportados para a pasta [Data](Data). 
 
-O dados são importados para o banco de dados através do [query.sql](Code/query.sql).
+Em seguida, são enviados para a pasta do XAMPP utilizando o [index.py](Code/index.py) para facilitar. Os dados são importados para o MySQL através do [query.sql](Code/query.sql).
+
+Após o processamento inicial, decidimos utilizar a ferramenta de visualização Tableau para uma análise mais aprofundada.
+
 
 ![](Doc/Images/code.png)
 
