@@ -134,10 +134,10 @@ Seguido pela Ethereum com 83221,86% de valorização.
   <a href="https://github.com/NewKanvas/Projeto-5/archive/main.zip" style="margin-right: 20px;">
     <img src="https://img.shields.io/badge/Download_-ZIP-green?style=for-the-badge&logo=github" alt="Download ZIP">
   </a>
-  <a href="https://github.com/NewKanvas/M5-Projeto-5/releases/download/v1.1/Dashboard.Criptomoedas.pdf" style="margin-right: 20px;">
+  <a href="https://github.com/NewKanvas/M5-Projeto-5/releases/download/v1.2/Dashboard.Criptomoedas.pdf" style="margin-right: 20px;">
     <img src="https://img.shields.io/badge/Download-PDF-red?style=for-the-badge&logo=tableau&logoColor=white" alt="Download PDF">
   </a>
-  <a href="https://github.com/NewKanvas/M5-Projeto-5/releases/download/v1.1/CriptoMoedas.twbx">
+  <a href="https://github.com/NewKanvas/M5-Projeto-5/releases/download/v1.2/CriptoMoedas.twbx">
     <img src="https://img.shields.io/badge/Download-Tableau-yellow?style=for-the-badge&logo=tableau&logoColor=white" alt="Download Tableau">
   </a>
 </p>
